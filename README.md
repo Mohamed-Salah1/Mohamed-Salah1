@@ -6,7 +6,7 @@
 
 <p>
 <a href="https://mohamedsalah.pages.dev/"><img src="https://img.shields.io/badge/Portfolio-0E7490?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/mohamed-salah-m1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/Mohamed-Salah1"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <img src="https://komarev.com/ghpvc/?username=Mohamed-Salah1&label=Profile%20Views&color=0E7490&style=for-the-badge" alt="views"/>
 </p>
@@ -65,7 +65,7 @@ I clean, model and analyze data, then turn it into <b>interactive dashboards</b>
 <img src="assets/h-connect.svg" width="100%" alt="Let's connect"/>
 
 <p>
-<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mohamed-salah-m1/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://mohamedsalah.pages.dev/"><img src="https://img.shields.io/badge/Portfolio-Visit-0E7490?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 </p>
 
