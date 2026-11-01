@@ -27,18 +27,18 @@ I clean, model and analyze data, then turn it into <b>interactive dashboards</b>
 <img src="assets/h-stack.svg" width="100%" alt="Tech stack"/>
 
 <p>
-<img src="https://cdn.simpleicons.org/powerbi/F2C811" width="44" height="44" title="Power BI" alt="Power BI"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/tableau/E97627" width="44" height="44" title="Tableau" alt="Tableau"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" width="44" height="44" title="SQL Server" alt="SQL Server"/>&nbsp;&nbsp;
+<img src="assets/i-powerbi.svg" width="44" height="44" title="Power BI" alt="Power BI"/>&nbsp;&nbsp;
+<img src="assets/i-tableau.svg" width="44" height="44" title="Tableau" alt="Tableau"/>&nbsp;&nbsp;
+<img src="assets/i-sqlserver.svg" width="44" height="44" title="SQL Server" alt="SQL Server"/>&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/python/3776AB" width="44" height="44" title="Python" alt="Python"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="44" height="44" title="Excel" alt="Excel"/>&nbsp;&nbsp;
+<img src="assets/i-excel.svg" width="44" height="44" title="Excel" alt="Excel"/>&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/pandas/E70488" width="44" height="44" title="Pandas" alt="Pandas"/>&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/numpy/4DABCF" width="44" height="44" title="NumPy" alt="NumPy"/>&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="44" height="44" title="Scikit-learn" alt="Scikit-learn"/>&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/jupyter/F37626" width="44" height="44" title="Jupyter" alt="Jupyter"/>&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/git/F05032" width="44" height="44" title="Git" alt="Git"/>&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/github/FFFFFF" width="44" height="44" title="GitHub" alt="GitHub"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="44" height="44" title="VS Code" alt="VS Code"/>&nbsp;&nbsp;
+<img src="assets/i-vscode.svg" width="44" height="44" title="VS Code" alt="VS Code"/>&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/docker/2496ED" width="44" height="44" title="Docker" alt="Docker"/>
 </p>
 
@@ -52,19 +52,12 @@ I clean, model and analyze data, then turn it into <b>interactive dashboards</b>
 
 <img src="assets/workflow.svg" width="100%" alt="Raw Data, Clean, Transform, Explore, Model, Visualize, Insights"/>
 
-<img src="assets/h-stats.svg" width="100%" alt="GitHub stats"/>
-
-<p>
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=Mohamed-Salah1&show_icons=true&hide_border=true&bg_color=0B1220&title_color=22D3EE&icon_color=8B5CF6&text_color=E5E7EB&ring_color=22D3EE" alt="stats"/>
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Salah1&layout=compact&hide_border=true&bg_color=0B1220&title_color=22D3EE&text_color=E5E7EB" alt="languages"/>
-</p>
-
 <img src="assets/h-learning.svg" width="100%" alt="Currently learning"/>
 
 <p>
-<img src="https://img.shields.io/badge/Advanced%20Power%20BI%20%26%20DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL%20Server%20%26%20DB%20Design-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Advanced%20Power%20BI%20%26%20DAX-F2C811?style=flat-square&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL%20Server%20%26%20DB%20Design-CC2927?style=flat-square&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python%20for%20Analysis-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Data%20Storytelling-8B5CF6?style=flat-square"/>
 </p>
